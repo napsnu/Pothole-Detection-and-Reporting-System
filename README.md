@@ -22,7 +22,7 @@ Our system integrates a trained YOLOv5 model with a TensorFlow Lite conversion t
 
 1. **Clone the Repository:**
                   
-            git clone <.... .git>
+            git clone https://github.com/napsnu/Pothole-Detection-and-Reporting-System.git
    
 3. **Install Dependencies:**
 
